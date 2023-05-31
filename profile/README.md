@@ -45,17 +45,17 @@ We use a dataset with 10 most popular dog breeds and 10 most popular cat breeds 
 Here is the Dataset Link that we have processed : 
 * https://drive.google.com/drive/folders/1y_LicM_emds9wmR5h_BSPZfDj5BgzevW?usp=share_link 
 
-Visit [this repository](https://github.com/tirtaagungjati/C23-PS404-Huze-Bangkit/tree/main/Machine_Learning)  for more information on our use of machine learning.
+Visit [this repository](https://github.com/C23-PS404-Huze-Bangkit/machine-learning)  for more information on our use of machine learning.
 
 ## Mobile Development Documentation
 Test
 
-Visit [this repository](https://github.com/tirtaagungjati/C23-PS404-Huze-Bangkit/tree/main/Mobile_Development)  for more information on our use of Mobile Development.
+Visit [this repository](https://github.com/C23-PS404-Huze-Bangkit/mobile-development)  for more information on our use of Mobile Development.
 
 ## Cloud Computing Documentation
 Test
 
-Visit [this repository](https://github.com/tirtaagungjati/C23-PS404-Huze-Bangkit/tree/main/Cloud_Computing)  for more information on our use of Cloud Computing.
+Visit [this repository](https://github.com/C23-PS404-Huze-Bangkit/cloud-computing)  for more information on our use of Cloud Computing.
 
 ## Our Team
 [Tirta Agung Jati - ID M200DKX4520](https://www.linkedin.com/in/tirta-agung-jati) - tirtaagungjati19@gmail.com - ML
