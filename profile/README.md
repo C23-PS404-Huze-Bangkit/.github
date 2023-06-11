@@ -58,7 +58,7 @@ Test
 Visit [this repository](https://github.com/C23-PS404-Huze-Bangkit/cloud-computing)  for more information on our use of Cloud Computing.
 
 ## Our Team
-[Tirta Agung Jati - ID M200DKX4520](https://www.linkedin.com/in/tirta-agung-jati) - tirtaagungjati19@gmail.com - ML
+[Tirta Agung Jati - ID M200DKX4520](https://www.linkedin.com/in/tirta-agung-jati) - tirtaagungjati19@gmail.com - ML & Also working in Mobile Development
 
 [Firman Afrialdy - ID M151DSX1444](#) - ML
 
