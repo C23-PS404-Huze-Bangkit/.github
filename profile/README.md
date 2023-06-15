@@ -48,14 +48,15 @@ Here is the Dataset Link that we have processed :
 Visit [this repository](https://github.com/C23-PS404-Huze-Bangkit/machine-learning)  for more information on our use of machine learning.
 
 ## Mobile Development Documentation
-Test
-
 Visit [this repository](https://github.com/C23-PS404-Huze-Bangkit/mobile-development)  for more information on our use of Mobile Development.
 
 ## Cloud Computing Documentation
-Test
 
-Visit [this repository](https://github.com/C23-PS404-Huze-Bangkit/cloud-computing)  for more information on our use of Cloud Computing.
+Visit [this repository](https://github.com/C23-PS404-Huze-Bangkit/api-docs)  for more information on our use of Cloud Computing.
+
+## Mentor or Advisor
+* Kevin Filmawan (B23-A049) 
+* Victoria Lestari (B23-A021) 
 
 ## Our Team
 [Tirta Agung Jati - ID M200DKX4520](https://www.linkedin.com/in/tirta-agung-jati) - tirtaagungjati19@gmail.com - ML & Also working in Mobile Development
@@ -66,6 +67,6 @@ Visit [this repository](https://github.com/C23-PS404-Huze-Bangkit/cloud-computin
 
 [Azhar Zaidan Fauzi - ID C200DKX4518](#) - CC
 
-[Malcolm Rahman Tampubolon - ID A330DSX1233](#) - MD
+[Malcolm Rahman Tampubolon - ID A330DSX1233](#) - MD 
 
-[Fikri Erdiansyah - ID A330DKX4113](#) - MD
+[Fikri Erdiansyah - ID A330DKX4113](#) - MD (No contributions were made in the creation of this application. "Does not create any features")
