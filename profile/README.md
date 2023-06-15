@@ -52,7 +52,7 @@ Visit [this repository](https://github.com/C23-PS404-Huze-Bangkit/mobile-develop
 
 ## Cloud Computing Documentation
 
-Visit [this repository](https://github.com/C23-PS404-Huze-Bangkit/api-docs)  for more information on our use of Cloud Computing.
+Visit [this repository](https://github.com/C23-PS404-Huze-Bangkit/cloud-computing)  for more information on our use of Cloud Computing.
 
 ## Mentor or Advisor
 * Kevin Filmawan (B23-A049) 
